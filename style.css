@@ -1,0 +1,68 @@
+#circle {
+    width: 100px;
+    height: 100px;
+    background: white;
+    -webkit-border-radius: 50px;
+    border: solid black;
+    border-radius: 50px;
+}
+
+#circleinside {
+    width: 100px;
+    height: 100px;
+    background: gray;
+    -moz-border-radius: 50px;
+    -webkit-border-radius: 50px;
+    border-radius: 50px;
+}
+
+body{
+    background-color:bisque;
+    overflow:hidden;
+}
+#nav1{
+    text-align: right;
+    
+}
+#covalent{
+    text-align: center;
+}
+#homeicon{
+    height:30px;
+    width:70px
+}
+#centerText{
+    font-family: 'Rock Salt', cursive;
+    font-size:xx-large;
+    display: block;
+}
+#button{
+    text-align: center;
+    
+}
+#footer{
+    position: fixed;
+    bottom: 0px;
+}
+
+#homePage{
+   position: relative; left:600px; top:2px
+}
+
+#playBtn{
+    border-radius: 7px;
+    margin-left: 50%;
+    height:32px;
+    width: 60px;
+    cursor: pointer;
+}
+.area1{
+height:40%;
+width:50%;
+border: solid 2px black;
+}
+
+#submit{
+position: relative;
+
+}
